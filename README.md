@@ -3,6 +3,8 @@ SwiftTalk-AppRochesterSeptember2014
 
 iPhone App in Swift - How many days old are you?
 
+[Click to learn to make apps with Swift](https://www.kickstarter.com/projects/paulsolt/31-days-make-iphone-apps-and-games-with-swift-for/?ref=github_swift_talk)
+
 Source code for the app that was created during the iPhone app presentation at [AppRochester](http://approchester.wordpress.com/2014/08/19/sept-2nd-learn-swift-from-paul-solt/)
 
 The app calculates how old you are using user input with UITextField objects, output with UILabel, and actions with the UIButton.
